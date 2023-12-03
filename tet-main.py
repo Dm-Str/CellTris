@@ -227,4 +227,3 @@ while app_running:
 
 
 tk.destroy()
-# Kotana
